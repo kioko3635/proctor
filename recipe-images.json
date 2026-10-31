@@ -1,0 +1,299 @@
+{
+  "berry-cornflakes": {
+    "steps": [
+      "/assets/recipe-design/fresh-berry-cornflakes-step-0.webp",
+      "/assets/recipe-design/fresh-berry-cornflakes-step-1.webp",
+      "/assets/recipe-design/fresh-berry-cornflakes-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-berry-cornflakes-hero.webp"
+  },
+  "banana-oat-pancakes": {
+    "steps": [
+      "/assets/recipe-design/fresh-banana-oat-pancakes-step-0.webp",
+      "/assets/recipe-design/fresh-banana-oat-pancakes-step-1.webp",
+      "/assets/recipe-design/fresh-banana-oat-pancakes-step-2.webp",
+      "/assets/recipe-design/fresh-banana-oat-pancakes-step-3.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-banana-oat-pancakes-hero.webp"
+  },
+  "apple-cinnamon-porridge": {
+    "steps": [
+      "/assets/recipe-design/fresh-apple-cinnamon-porridge-step-0.webp",
+      "/assets/recipe-design/fresh-apple-cinnamon-porridge-step-1.webp",
+      "/assets/recipe-design/fresh-apple-cinnamon-porridge-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-apple-cinnamon-porridge-hero.webp"
+  },
+  "chocolate-cake": {
+    "steps": [
+      "/assets/recipe-design/fresh-chocolate-cake-step-0.webp",
+      "/assets/recipe-design/fresh-chocolate-cake-step-1.webp",
+      "/assets/recipe-design/fresh-chocolate-cake-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-chocolate-cake-hero.webp"
+  },
+  "cornflake-chicken-bites": {
+    "steps": [
+      "/assets/recipe-design/fresh-cornflake-chicken-bites-step-0.webp",
+      "/assets/recipe-design/fresh-cornflake-chicken-bites-step-1.webp",
+      "/assets/recipe-design/fresh-cornflake-chicken-bites-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-cornflake-chicken-bites-hero.webp"
+  },
+  "peanut-butter-oat-bites": {
+    "steps": [
+      "/assets/recipe-design/fresh-peanut-butter-oat-bites-step-0.webp",
+      "/assets/recipe-design/fresh-peanut-butter-oat-bites-step-1.webp",
+      "/assets/recipe-design/fresh-peanut-butter-oat-bites-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-peanut-butter-oat-bites-hero.webp"
+  },
+  "nutririch-pumpkin-bowl": {
+    "steps": [
+      "/assets/recipe-design/fresh-nutririch-pumpkin-bowl-step-0.webp",
+      "/assets/recipe-design/fresh-nutririch-pumpkin-bowl-step-1.webp",
+      "/assets/recipe-design/fresh-nutririch-pumpkin-bowl-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-nutririch-pumpkin-bowl-hero.webp"
+  },
+  "nutririch-savoury-vegetables": {
+    "steps": [
+      "/assets/recipe-design/fresh-nutririch-savoury-vegetables-step-0.webp",
+      "/assets/recipe-design/fresh-nutririch-savoury-vegetables-step-1.webp",
+      "/assets/recipe-design/fresh-nutririch-savoury-vegetables-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-nutririch-savoury-vegetables-hero.webp"
+  },
+  "cornflake-chevda": {
+    "steps": [
+      "/assets/recipe-design/fresh-cornflake-chevda-step-0.webp",
+      "/assets/recipe-design/fresh-cornflake-chevda-step-1.webp",
+      "/assets/recipe-design/fresh-cornflake-chevda-step-2.webp",
+      "/assets/recipe-design/fresh-cornflake-chevda-step-3.webp",
+      "/assets/recipe-design/fresh-cornflake-chevda-step-4.webp",
+      "/assets/recipe-design/fresh-cornflake-chevda-step-5.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-cornflake-chevda-hero.webp"
+  },
+  "cornflake-yoghurt-cups": {
+    "steps": [
+      "/assets/recipe-design/fresh-cornflake-yoghurt-cups-step-0.webp",
+      "/assets/recipe-design/fresh-cornflake-yoghurt-cups-step-1.webp",
+      "/assets/recipe-design/fresh-cornflake-yoghurt-cups-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-cornflake-yoghurt-cups-hero.webp"
+  },
+  "cornflake-vegetable-cutlets": {
+    "steps": [
+      "/assets/recipe-design/fresh-cornflake-vegetable-cutlets-step-0.webp",
+      "/assets/recipe-design/fresh-cornflake-vegetable-cutlets-step-1.webp",
+      "/assets/recipe-design/fresh-cornflake-vegetable-cutlets-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-cornflake-vegetable-cutlets-hero.webp"
+  },
+  "cake-popsicles": {
+    "steps": [
+      "/assets/recipe-design/fresh-cake-popsicles-step-0.webp",
+      "/assets/recipe-design/fresh-cake-popsicles-step-1.webp",
+      "/assets/recipe-design/fresh-cake-popsicles-step-2.webp",
+      "/assets/recipe-design/fresh-cake-popsicles-step-3.webp",
+      "/assets/recipe-design/fresh-cake-popsicles-step-4.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-cake-popsicles-hero.webp"
+  },
+  "apple-pie-overnight-oats": {
+    "steps": [
+      "/assets/recipe-design/fresh-apple-pie-overnight-oats-step-0.webp",
+      "/assets/recipe-design/fresh-apple-pie-overnight-oats-step-1.webp",
+      "/assets/recipe-design/fresh-apple-pie-overnight-oats-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-apple-pie-overnight-oats-hero.webp"
+  },
+  "nutty-seed-overnight-oats": {
+    "steps": [
+      "/assets/recipe-design/fresh-nutty-seed-overnight-oats-step-0.webp",
+      "/assets/recipe-design/fresh-nutty-seed-overnight-oats-step-1.webp",
+      "/assets/recipe-design/fresh-nutty-seed-overnight-oats-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-nutty-seed-overnight-oats-hero.webp"
+  },
+  "oat-sourdough-bread": {
+    "steps": [
+      "/assets/recipe-design/fresh-oat-sourdough-bread-step-0.webp",
+      "/assets/recipe-design/fresh-oat-sourdough-bread-step-1.webp",
+      "/assets/recipe-design/fresh-oat-sourdough-bread-step-2.webp",
+      "/assets/recipe-design/fresh-oat-sourdough-bread-step-3.webp",
+      "/assets/recipe-design/fresh-oat-sourdough-bread-step-4.webp",
+      "/assets/recipe-design/fresh-oat-sourdough-bread-step-5.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-oat-sourdough-bread-hero.webp"
+  },
+  "savoury-oat-muffins": {
+    "steps": [
+      "/assets/recipe-design/fresh-savoury-oat-muffins-step-0.webp",
+      "/assets/recipe-design/fresh-savoury-oat-muffins-step-1.webp",
+      "/assets/recipe-design/fresh-savoury-oat-muffins-step-2.webp",
+      "/assets/recipe-design/fresh-savoury-oat-muffins-step-3.webp",
+      "/assets/recipe-design/fresh-savoury-oat-muffins-step-4.webp",
+      "/assets/recipe-design/fresh-savoury-oat-muffins-step-5.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-savoury-oat-muffins-hero.webp"
+  },
+  "no-bake-oat-bars": {
+    "steps": [
+      "/assets/recipe-design/fresh-no-bake-oat-bars-step-0.webp",
+      "/assets/recipe-design/fresh-no-bake-oat-bars-step-1.webp",
+      "/assets/recipe-design/fresh-no-bake-oat-bars-step-2.webp",
+      "/assets/recipe-design/fresh-no-bake-oat-bars-step-3.webp",
+      "/assets/recipe-design/fresh-no-bake-oat-bars-step-4.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-no-bake-oat-bars-hero.webp"
+  },
+  "savoury-quick-oats": {
+    "steps": [
+      "/assets/recipe-design/fresh-savoury-quick-oats-step-0.webp",
+      "/assets/recipe-design/fresh-savoury-quick-oats-step-1.webp",
+      "/assets/recipe-design/fresh-savoury-quick-oats-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-savoury-quick-oats-hero.webp"
+  },
+  "diwali-thandai-cake": {
+    "steps": [
+      "/assets/recipe-design/fresh-diwali-thandai-cake-step-0.webp",
+      "/assets/recipe-design/fresh-diwali-thandai-cake-step-1.webp",
+      "/assets/recipe-design/fresh-diwali-thandai-cake-step-2.webp",
+      "/assets/recipe-design/fresh-diwali-thandai-cake-step-3.webp",
+      "/assets/recipe-design/fresh-diwali-thandai-cake-step-4.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-diwali-thandai-cake-hero.webp"
+  },
+  "cornflake-energy-bars": {
+    "steps": [
+      "/assets/recipe-design/fresh-cornflake-energy-bars-step-0.webp",
+      "/assets/recipe-design/fresh-cornflake-energy-bars-step-1.webp",
+      "/assets/recipe-design/fresh-cornflake-energy-bars-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-cornflake-energy-bars-hero.webp"
+  },
+  "cornflake-trail-mix": {
+    "steps": [
+      "/assets/recipe-design/fresh-cornflake-trail-mix-step-0.webp",
+      "/assets/recipe-design/fresh-cornflake-trail-mix-step-1.webp",
+      "/assets/recipe-design/fresh-cornflake-trail-mix-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-cornflake-trail-mix-hero.webp"
+  },
+  "cornflake-paneer-bites": {
+    "steps": [
+      "/assets/recipe-design/fresh-cornflake-paneer-bites-step-0.webp",
+      "/assets/recipe-design/fresh-cornflake-paneer-bites-step-1.webp",
+      "/assets/recipe-design/fresh-cornflake-paneer-bites-step-2.webp",
+      "/assets/recipe-design/fresh-cornflake-paneer-bites-step-3.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-cornflake-paneer-bites-hero.webp"
+  },
+  "cornflake-dessert-cups": {
+    "steps": [
+      "/assets/recipe-design/fresh-cornflake-dessert-cups-step-0.webp",
+      "/assets/recipe-design/fresh-cornflake-dessert-cups-step-1.webp",
+      "/assets/recipe-design/fresh-cornflake-dessert-cups-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-cornflake-dessert-cups-hero.webp"
+  },
+  "carrot-banana-porridge": {
+    "steps": [
+      "/assets/recipe-design/fresh-carrot-banana-porridge-step-0.webp",
+      "/assets/recipe-design/fresh-carrot-banana-porridge-step-1.webp",
+      "/assets/recipe-design/fresh-carrot-banana-porridge-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-carrot-banana-porridge-hero.webp"
+  },
+  "oat-vegetable-fritters": {
+    "steps": [
+      "/assets/recipe-design/fresh-oat-vegetable-fritters-step-0.webp",
+      "/assets/recipe-design/fresh-oat-vegetable-fritters-step-1.webp",
+      "/assets/recipe-design/fresh-oat-vegetable-fritters-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-oat-vegetable-fritters-hero.webp"
+  },
+  "baby-banana-porridge": {
+    "steps": [
+      "/assets/recipe-design/fresh-baby-banana-porridge-step-0.webp",
+      "/assets/recipe-design/fresh-baby-banana-porridge-step-1.webp",
+      "/assets/recipe-design/fresh-baby-banana-porridge-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-baby-banana-porridge-hero.webp"
+  },
+  "baby-pear-porridge": {
+    "steps": [
+      "/assets/recipe-design/fresh-baby-pear-porridge-step-0.webp",
+      "/assets/recipe-design/fresh-baby-pear-porridge-step-1.webp",
+      "/assets/recipe-design/fresh-baby-pear-porridge-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-baby-pear-porridge-hero.webp"
+  },
+  "baby-pumpkin-porridge": {
+    "steps": [
+      "/assets/recipe-design/fresh-baby-pumpkin-porridge-step-0.webp",
+      "/assets/recipe-design/fresh-baby-pumpkin-porridge-step-1.webp",
+      "/assets/recipe-design/fresh-baby-pumpkin-porridge-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-baby-pumpkin-porridge-hero.webp"
+  },
+  "nutririch-banana-bowl": {
+    "steps": [
+      "/assets/recipe-design/fresh-nutririch-banana-bowl-step-0.webp",
+      "/assets/recipe-design/fresh-nutririch-banana-bowl-step-1.webp",
+      "/assets/recipe-design/fresh-nutririch-banana-bowl-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-nutririch-banana-bowl-hero.webp"
+  },
+  "vanilla-berry-cupcakes": {
+    "steps": [
+      "/assets/recipe-design/fresh-vanilla-berry-cupcakes-step-0.webp",
+      "/assets/recipe-design/fresh-vanilla-berry-cupcakes-step-1.webp",
+      "/assets/recipe-design/fresh-vanilla-berry-cupcakes-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-vanilla-berry-cupcakes-hero.webp"
+  },
+  "banana-oat-muffins": {
+    "steps": [
+      "/assets/recipe-design/fresh-banana-oat-muffins-step-0.webp",
+      "/assets/recipe-design/fresh-banana-oat-muffins-step-1.webp",
+      "/assets/recipe-design/fresh-banana-oat-muffins-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-banana-oat-muffins-hero.webp"
+  },
+  "banana-cinnamon-overnight-oats": {
+    "steps": [
+      "/assets/recipe-design/fresh-banana-cinnamon-overnight-oats-step-0.webp",
+      "/assets/recipe-design/fresh-banana-cinnamon-overnight-oats-step-1.webp",
+      "/assets/recipe-design/fresh-banana-cinnamon-overnight-oats-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-banana-cinnamon-overnight-oats-hero.webp"
+  },
+  "berry-almond-overnight-oats": {
+    "steps": [
+      "/assets/recipe-design/fresh-berry-almond-overnight-oats-step-0.webp",
+      "/assets/recipe-design/fresh-berry-almond-overnight-oats-step-1.webp",
+      "/assets/recipe-design/fresh-berry-almond-overnight-oats-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-berry-almond-overnight-oats-hero.webp"
+  },
+  "chocolate-peanut-overnight-oats": {
+    "steps": [
+      "/assets/recipe-design/fresh-chocolate-peanut-overnight-oats-step-0.webp",
+      "/assets/recipe-design/fresh-chocolate-peanut-overnight-oats-step-1.webp",
+      "/assets/recipe-design/fresh-chocolate-peanut-overnight-oats-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-chocolate-peanut-overnight-oats-hero.webp"
+  },
+  "mango-coconut-overnight-oats": {
+    "steps": [
+      "/assets/recipe-design/fresh-mango-coconut-overnight-oats-step-0.webp",
+      "/assets/recipe-design/fresh-mango-coconut-overnight-oats-step-1.webp",
+      "/assets/recipe-design/fresh-mango-coconut-overnight-oats-step-2.webp"
+    ],
+    "hero": "/assets/recipe-design/fresh-mango-coconut-overnight-oats-hero.webp"
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "source": "Nutritional information_P&A products.docx",
+  "transcriptionNote": "Values and units are transcribed as supplied. No missing values have been inferred. Review notes identify ambiguities in the source.",
+  "products": {
+    "white-oats": {
+      "sourceName": "White Oats",
+      "basis": "Per 100 grams (Dry Product)",
+      "ingredients": [
+        "Roasted whole oat grain."
+      ],
+      "allergens": [
+        "Wheat, Nuts, Milk & Soya"
+      ],
+      "nutrients": [
+        {
+          "label": "Protein",
+          "value": "13.5g"
+        },
+        {
+          "label": "Carbohydrates",
+          "value": "66.0g"
+        },
+        {
+          "label": "Fat",
+          "value": "10.0g"
+        },
+        {
+          "label": "Dietary Fiber",
+          "value": "9.0g"
+        },
+        {
+          "label": "Sodium",
+          "value": "Trace"
+        }
+      ],
+      "pending": true
+    },
+    "quick-oats": {
+      "sourceName": "Quick Porridge Oats",
+      "basis": "Per 100 grams (Dry Product)",
+      "ingredients": [
+        "Milled whole oats."
+      ],
+      "allergens": [
+        "Wheat, Nuts, Milk & Soya"
+      ],
+      "nutrients": [
+        {
+          "label": "Protein",
+          "value": "13.5g"
+        },
+        {
+          "label": "Carbohydrates",
+          "value": "66.0g"
+        },
+        {
+          "label": "Sodium",
+          "value": "Trace"
+        }
+      ],
+      "pending": true
+    },
+    "cornflakes": {
+      "sourceName": "CORNFLAKES",
+      "basis": "Typical values per 100g serving",
+      "ingredients": [],
+      "allergens": [],
+      "nutrients": [
+        {
+          "label": "Protein",
+          "value": "9.36%"
+        },
+        {
+          "label": "Fat",
+          "value": "3.474%"
+        },
+        {
+          "label": "Fibre",
+          "value": "0.60%"
+        },
+        {
+          "label": "Energy",
+          "value": "332.74Kcal"
+        },
+        {
+          "label": "Saturated fat",
+          "value": "<0.01%"
+        },
+        {
+          "label": "Added trans-fat",
+          "value": "<0.01%"
+        }
+      ],
+      "pending": true
+    },
+    "baby-porridge": {
+      "sourceName": "Kiddos baby Porridge",
+      "basis": "Per 100 grams (Dry Product)",
+      "ingredients": [
+        "Maize, Soya, Sorghum, Vitamins and Minerals"
+      ],
+      "allergens": [
+        "Contains Soya & may contain traces of Wheat, Nuts & Milk"
+      ],
+      "nutrients": [
+        {
+          "label": "Energy",
+          "value": "400 Kcal"
+        },
+        {
+          "label": "Protein",
+          "value": "14% min"
+        },
+        {
+          "label": "Fat",
+          "value": "6% min"
+        },
+        {
+          "label": "Fibre",
+          "value": "5% max"
+        },
+        {
+          "label": "Vitamin A",
+          "value": "2300 I.U"
+        },
+        {
+          "label": "Vitamin D",
+          "value": "200 I.U"
+        },
+        {
+          "label": "Vitamin E",
+          "value": "7.5 I.U"
+        },
+        {
+          "label": "Vitamin C",
+          "value": "60mg"
+        },
+        {
+          "label": "Niacin",
+          "value": "5.0mg"
+        },
+        {
+          "label": "Thiamine",
+          "value": "0.280mg"
+        },
+        {
+          "label": "Riboflavin",
+          "value": "0.820mg"
+        },
+        {
+          "label": "Pyridoxine",
+          "value": "0.165mg"
+        },
+        {
+          "label": "Pantothenate",
+          "value": "2.0mg"
+        },
+        {
+          "label": "Vitamin B12",
+          "value": "1.2mcg"
+        },
+        {
+          "label": "Folic acid",
+          "value": "0.2mcg"
+        },
+        {
+          "label": "Calcium",
+          "value": "260mg"
+        },
+        {
+          "label": "Zinc",
+          "value": "12mg"
+        },
+        {
+          "label": "Iron",
+          "value": "8.7mg"
+        }
+      ],
+      "pending": false
+    },
+    "cake-mix": {
+      "sourceName": "CAKE MIX",
+      "basis": null,
+      "ingredients": [
+        "Wheat flour",
+        "Sugar",
+        "Emulsifier",
+        "Permitted raising agents",
+        "Permitted flavourings"
+      ],
+      "allergens": [
+        "Soya",
+        "Milk",
+        "Nuts"
+      ],
+      "nutrients": [],
+      "pending": true
+    },
+    "nutririch-porridge": {
+      "sourceName": "Nutririch porridge",
+      "basis": "Per 100 grams (Dry Product)",
+      "ingredients": [
+        "Maize, Soya,Sorghum, Vitamins & Minerals."
+      ],
+      "allergens": [],
+      "nutrients": [
+        {
+          "label": "Energy",
+          "value": "400 Kcal"
+        },
+        {
+          "label": "Protein",
+          "value": "14% min"
+        },
+        {
+          "label": "Fat",
+          "value": "6% min"
+        },
+        {
+          "label": "Fibre",
+          "value": "5% max"
+        },
+        {
+          "label": "Vitamin A",
+          "value": "1000.0000IU"
+        },
+        {
+          "label": "Vitamin D",
+          "value": "80.0000IU"
+        },
+        {
+          "label": "Vitamin E",
+          "value": "5.0325mg"
+        },
+        {
+          "label": "Vitamin B1",
+          "value": "0.7500mg"
+        },
+        {
+          "label": "Vitamin B2",
+          "value": "0.8500mg"
+        },
+        {
+          "label": "Vitamin B6",
+          "value": "1.0000mg"
+        },
+        {
+          "label": "Nicotinamide",
+          "value": "4.0000mg"
+        },
+        {
+          "label": "Folic Acid",
+          "value": "0.1000mg"
+        },
+        {
+          "label": "Vitamin B12",
+          "value": "3.0000mcg"
+        },
+        {
+          "label": "Vitamin C",
+          "value": "15.0000mg"
+        },
+        {
+          "label": "Zinc",
+          "value": "3.0000mg"
+        },
+        {
+          "label": "Copper",
+          "value": "0.3300mg"
+        },
+        {
+          "label": "Selenium",
+          "value": "0.0105mg"
+        },
+        {
+          "label": "Iron",
+          "value": "2.7000mg"
+        }
+      ],
+      "pending": false
+    }
+  }
+}
